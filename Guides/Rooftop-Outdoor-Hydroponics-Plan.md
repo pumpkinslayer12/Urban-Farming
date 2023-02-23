@@ -271,6 +271,8 @@ This section will outline the estimated cost of the project and how it will be f
 
 This section will detail the steps you will take to implement the urban roof farm. This may include installing the necessary equipment, preparing the soil and containers, and planting the crops. You should also consider any ongoing maintenance that will be required, such as watering, fertilizing, and pest control.
 
+Really dig into permits here.
+
 # Marketing and Outreach
 
 This section will outline how you plan to market and promote the urban roof farm. This may include social media, signage, events, or partnerships with local businesses. You should also consider ways to engage with the community and educate them about the benefits of urban farming.
