@@ -300,6 +300,8 @@ Overall, monitoring and evaluation are critical components of our urban rooftop 
 
 # Conclusion
 
-In this final section, you should summarize the project and its benefits. You may also want to include recommendations for future urban farming projects and any lessons learned from this experience.
+This rooftop Kratky hydroponics farm is a viable and sustainable way to grow a variety of crops in an urban setting. By utilizing passive solar tunnels and optimizing the use of available water and light, we can grow a diverse selection of plants without the need for soil. Additionally, the use of hydroponics greatly reduces the amount of water required for plant growth and eliminates the need for harmful pesticides or herbicides.
 
-Overall, an urban roof farm can be an innovative and sustainable solution for urban areas. By following this framework, you can create a detailed implementation plan that will help you to successfully establish and maintain your urban roof farm.
+While the initial cost of building the farm may be high, the long-term benefits of reduced water and resource usage, as well as the ability to grow fresh produce locally, make it a worthwhile investment. With careful planning and resourcefulness, it is possible to construct the farm for little to no cost, by utilizing recycled or repurposed materials.
+
+Overall, this project aligns with the goals of the School Urban Farming Framework and serves as an excellent example of sustainable, locally sourced agriculture. By providing fresh produce to the local community, we can promote healthy eating and reduce our carbon footprint.
