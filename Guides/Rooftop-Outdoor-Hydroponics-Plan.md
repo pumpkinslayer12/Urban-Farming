@@ -1,46 +1,5 @@
 # Rooftop & Outdoor Hydroponics Garden
 
-# Parameters
-
-The implementation plan will also double as a report to convince people about the details of constructing this urban farm. Provide content for the introduction section. Be confidant. Examples are not acceptable. It must also be succinct. We want to get down to facts. The reader does not care about innovative things involving the city. These are important people giving me access to their land. This is crucial for supporting Indianapolis Public Schools. Write it as if it's a human. The reader doesn't need to know or give a shit about this being on an IPS rooftop as this can also be replicated on the ground.
-
-It will include the following crops: 
-
-*   Arugula
-*   Basil
-*   Bush beans
-*   Chamomile
-*   Cilantro
-*   Collard greens
-*   Curled mustard greens
-*   Dill
-*   Kale
-*   Lavender
-*   Lemon balm
-*   Mint
-*   Mizuna
-*   Oakleaf lettuce
-*   Romaine
-*   Spinach
-*   Swiss chard
-
-This will be a Kratky hydroponics farm, leveraging passive solar tunnels and on a roof in an Urban Setting. 
-
-This plan must follow the School Urban Farming Framework. This is not a negotiation. If the content you recommend does not align with the wisdom found in this framework, it will be considered useless. 
-
-Here is the link to the markdown file: https://raw.githubusercontent.com/pumpkinslayer12/Urban-Farming/main/Guides/Urban-Farming-Framework.md
-
-The report sections are the following:
-
-*   Introduction
-*   Site Assessment and Selection
-*   Design and Planning
-*   Budget and Financing
-*   Implementation
-*   Marketing and Outreach
-*   Monitoring and Evaluation
-*   Conclusion
-
 # Introduction
 
 The purpose of this report is to present a detailed implementation plan for an urban roof farm in Indianapolis. The goal of this project is to support the Indianapolis Public Schools by providing fresh, healthy produce for their students and staff. This urban roof farm will be designed to grow a variety of crops, including arugula, basil, bush beans, chamomile, cilantro, collard greens, curled mustard greens, dill, kale, lavender, lemon balm, mint, mizuna, oakleaf lettuce, romaine, spinach, and Swiss chard.
