@@ -14,15 +14,13 @@ Overall, this urban roof farm will not only provide fresh produce for Indianapol
 
 # Site Assessment and Selection
 
-The purpose of this report is to present a detailed implementation plan for an urban roof farm in Indianapolis. The goal of this project is to support the Indianapolis Public Schools by providing fresh, healthy produce for their students and staff. This urban roof farm will be designed to grow a variety of crops, including arugula, basil, bush beans, chamomile, cilantro, collard greens, curled mustard greens, dill, kale, lavender, lemon balm, mint, mizuna, oakleaf lettuce, romaine, spinach, and Swiss chard.
+The first step in planning an urban rooftop hydroponics farm is to assess and select an appropriate site. In our case, we have a flat roof available for the project, and we will need to evaluate the suitability of the site for supporting the hydroponic system and the crops that we plan to grow.
 
-This urban roof farm will utilize a Kratky hydroponics system, which is an effective and efficient method of growing crops in an urban setting. Additionally, passive solar tunnels will be used to optimize the available sunlight and maximize crop yields.
+To determine the suitability of the site, we will need to consider factors such as structural integrity, weight capacity, and access to sunlight and water. Since the rooftop location is exposed to the elements, we will need to ensure that the roof is structurally sound and can support the weight of the hydroponic system, containers, and crops. We will also need to ensure that the site has access to water and electricity, and that we can secure the site to prevent theft or vandalism.
 
-To ensure that this urban roof farm aligns with the School Urban Farming Framework, a rigorous site assessment and selection process was conducted. The final site was chosen based on its structural integrity, exposure to sunlight, and accessibility.
+Additionally, we will need to assess the amount of sunlight that the site receives to determine the best layout for the hydroponic system and the crops that we plan to grow. As mentioned earlier, we have access to passive solar tunnels that we can leverage to maximize sunlight exposure. This will help us to optimize the growth of our crops and reduce the need for artificial lighting.
 
-The following report will detail the design and planning of the urban roof farm, including the layout, irrigation and drainage systems, and equipment needed. It will also include a budget and financing plan, as well as a marketing and outreach strategy to engage the community and promote the benefits of urban farming. Finally, monitoring and evaluation methods will be discussed to track the success of the project and identify areas for improvement.
-
-Overall, this urban roof farm will not only provide fresh produce for Indianapolis Public Schools but will also serve as a model for future urban farming projects in the area.
+Overall, we believe that the rooftop location is a suitable site for our urban hydroponics farm, and we will work closely with a structural engineer to ensure that the site is safe and secure for both the hydroponic system and the people who will be working on it.
 
 # Design and Planning
 
