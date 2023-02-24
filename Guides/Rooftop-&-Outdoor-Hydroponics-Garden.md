@@ -246,9 +246,21 @@ Overall, we believe that with some creativity and resourcefulness, we can financ
 
 # Implementation
 
-This section will detail the steps you will take to implement the urban roof farm. This may include installing the necessary equipment, preparing the soil and containers, and planting the crops. You should also consider any ongoing maintenance that will be required, such as watering, fertilizing, and pest control.
+The implementation of an urban rooftop hydroponics farm is a complex process that requires careful planning, attention to detail, and ongoing management. In this section, we will discuss several key aspects of the implementation process, including pest management, permits, restrictions, and resource access.
 
-Really dig into permits here.
+## Pest Management
+
+One of the most critical aspects of implementing a successful hydroponics farm is managing pests and diseases. In our case, we will be growing a variety of crops in a relatively confined space, which can make the farm more susceptible to pests and diseases. To minimize these risks, we will implement several pest management strategies, including using natural insecticides, introducing beneficial insects, and practicing good hygiene and sanitation. We will also monitor our plants closely for any signs of pests or diseases, and take prompt action if any issues arise.
+
+## Permits and Restrictions
+
+As with any construction project, it is important to obtain the necessary permits and comply with any relevant regulations or restrictions. In our case, we may need to obtain permits for the installation of the passive solar tunnels or other equipment, and we will need to ensure that we comply with any relevant building codes or zoning restrictions. We will work closely with local authorities and building officials to ensure that our project meets all necessary regulations and requirements.
+
+## Resource Access
+
+Access to resources, such as water and electricity, is critical for the success of our hydroponics farm. In our case, we are fortunate to have access to water and light on our rooftop site. However, we will still need to carefully manage our water usage and ensure that we have sufficient power to run any necessary equipment, such as lights or fans. We may need to install a rainwater collection system or other water-saving measures to ensure that we can maintain our crops without wasting water.
+
+Overall, the implementation of an urban rooftop hydroponics farm requires careful planning and attention to detail, particularly with regard to pest management, permits and restrictions, and resource access. By taking a proactive approach to these and other key issues, we can ensure that our project is successful, sustainable, and well-suited to the unique challenges of an urban setting.
 
 # Marketing and Outreach
 
