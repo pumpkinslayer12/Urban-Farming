@@ -24,7 +24,17 @@ Overall, we believe that the rooftop location is a suitable site for our urban h
 
 # Design and Planning
 
-This section should outline the design and planning process for the urban roof farm. This should include the layout of the garden, the types of crops you will grow, and the irrigation and drainage systems. You should also consider the type of containers and soil you will use and any other equipment or tools you will need.
+Once we have selected an appropriate site for our urban hydroponics farm, the next step is to design and plan the hydroponic system itself. In our case, we will be using a Kratky hydroponic system, which is a passive hydroponic system that does not require pumps or electricity. The Kratky system is well-suited to rooftop gardening because it is relatively simple to set up and requires minimal maintenance.
+
+To design the hydroponic system, we will need to consider several factors, including the size and shape of the containers, the spacing of the plants, and the type of nutrient solution to be used. We will also need to decide on the materials to be used for the containers, the irrigation system, and the passive solar tunnels.
+
+For the containers, we plan to use food-grade plastic buckets that are readily available and relatively inexpensive. We will need to drill holes in the bottom of each bucket to allow excess water to drain, and we will need to cover the top of each bucket with a lid to prevent algae growth and evaporation. We will also need to determine the appropriate spacing for the plants based on the size of the buckets and the types of crops we plan to grow.
+
+For the nutrient solution, we will use a balanced hydroponic fertilizer that contains the necessary nutrients for plant growth. We will need to carefully measure and mix the fertilizer to ensure that the nutrient solution is appropriate for the specific crop we plan to grow.
+
+We will also need to design and build the passive solar tunnels that will be used to maximize sunlight exposure and reduce the need for artificial lighting. The tunnels will be constructed from PVC pipes and covered with clear plastic sheeting. We will need to carefully measure and cut the pipes and sheeting to ensure a snug fit, and we will need to secure the tunnels to the roof to prevent damage from wind or other weather events.
+
+Overall, the design and planning phase of the project will be critical to ensuring the success of our rooftop hydroponics farm. We will need to carefully consider all of the necessary factors, from container design to nutrient solutions and passive solar tunnels, in order to create a system that is efficient, effective, and sustainable in an urban setting.
 
 ## Crop Guides
 
