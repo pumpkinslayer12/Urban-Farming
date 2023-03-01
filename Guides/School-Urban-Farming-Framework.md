@@ -43,82 +43,82 @@ Resources Needed to Begin Outdoor Farm
 
 *   Garden tools:
 
-*   Shovels, hoes, and rakes for preparing and maintaining the soil.
-*   Pruning shears for harvesting crops and maintaining plants.
-*   Wheelbarrow for moving soil and compost.
-*   Watering cans and hose for watering plants.
+**   Shovels, hoes, and rakes for preparing and maintaining the soil.
+**   Pruning shears for harvesting crops and maintaining plants.
+**   Wheelbarrow for moving soil and compost.
+**   Watering cans and hose for watering plants.
 
 *   Irrigation equipment:
 
-*   Drip irrigation systems for providing a consistent water supply to crops.
-*   Sprinklers for larger areas or for irrigating taller crops.
-*   Hoses and fittings for connecting the irrigation system.
+**   Drip irrigation systems for providing a consistent water supply to crops.
+**   Sprinklers for larger areas or for irrigating taller crops.
+**   Hoses and fittings for connecting the irrigation system.
 
 *   Protective gear:
 
-*   Gloves for protecting hands from sharp tools and plant materials.
-*   Sunscreen and hats for protecting skin from the sun.
-*   Long pants and sleeves for protecting skin from insects and thorns.
+**   Gloves for protecting hands from sharp tools and plant materials.
+**   Sunscreen and hats for protecting skin from the sun.
+**   Long pants and sleeves for protecting skin from insects and thorns.
 
 *   Planting equipment:
 
-*   Hand trowel for planting seedlings and small plants.
-*   Bulb planter for planting bulbs and other larger plants.
-*   Transplanter for moving seedlings and small plants to their final locations.
+**   Hand trowel for planting seedlings and small plants.
+**   Bulb planter for planting bulbs and other larger plants.
+**   Transplanter for moving seedlings and small plants to their final locations.
 
 *   Materials for building raised beds:
 
-*   Lumber or other materials for building the bed frames.
-*   Soil, compost, and fertilizer for filling the beds.
-*   Weed cloth and mulch for suppressing weeds and conserving moisture.
+**   Lumber or other materials for building the bed frames.
+**   Soil, compost, and fertilizer for filling the beds.
+**   Weed cloth and mulch for suppressing weeds and conserving moisture.
 
 *   Other equipment:
 
-*   Tarp or other covering material for protecting crops during inclement weather.
-*   Stakes and twine for training and supporting tall crops.
-*   Scale for measuring and tracking crop yields.
-*   Thermometer for monitoring ambient temperature.
-*   Rain gauge to estimate total rainfall for a given period.
+**   Tarp or other covering material for protecting crops during inclement weather.
+**   Stakes and twine for training and supporting tall crops.
+**   Scale for measuring and tracking crop yields.
+**   Thermometer for monitoring ambient temperature.
+**   Rain gauge to estimate total rainfall for a given period.
 
 Resources Needed to Begin Hydroponics Farm
 ------------------------------------------
 
 *   Hydroponic systems:
 
-*   Plastic containers or jars for growing plants.
-*   Hydroponic solution, such as water and nutrients, for nourishing the plants.
-*   Water and nutrient reservoirs for holding the hydroponic solution.
+**   Plastic containers or jars for growing plants.
+**   Hydroponic solution, such as water and nutrients, for nourishing the plants.
+**   Water and nutrient reservoirs for holding the hydroponic solution.
 
 *   Grow lights:
 
-*   LED grow lights or fluorescent lights for providing the necessary light to grow the plants.
-*   Light timers and/or ballasts for controlling the light cycle.
+**   LED grow lights or fluorescent lights for providing the necessary light to grow the plants.
+**   Light timers and/or ballasts for controlling the light cycle.
 
 *   Pumps and tubing:
 
-*   Submersible pumps for circulating the hydroponic solution.
-*   Tubing for connecting the pumps, air pumps, and containers.
-*   Air pumps and tubing for oxygenating the hydroponic solution.
+**   Submersible pumps for circulating the hydroponic solution.
+**   Tubing for connecting the pumps, air pumps, and containers.
+**   Air pumps and tubing for oxygenating the hydroponic solution.
 
 *   Climate control equipment:
 
-*   Heaters, fans, and air conditioners for maintaining optimal temperature and humidity levels for the plants.
-*   Thermometers and hygrometers for monitoring temperature and humidity levels.
+**   Heaters, fans, and air conditioners for maintaining optimal temperature and humidity levels for the plants.
+**   Thermometers and hygrometers for monitoring temperature and humidity levels.
 
 *   Soil-less growing media:
 
-*   Rockwool, coconut coir, or perlite for supporting the plants.
-*   Peat moss or vermiculite for retaining moisture in the growing media.
+**   Rockwool, coconut coir, or perlite for supporting the plants.
+**   Peat moss or vermiculite for retaining moisture in the growing media.
 
 *   Nutrient solution:
 
-*   Hydroponic nutrients specifically formulated for the plants being grown.
-*   pH test kit for monitoring and adjusting the pH of the nutrient solution.
+**   Hydroponic nutrients specifically formulated for the plants being grown.
+**   pH test kit for monitoring and adjusting the pH of the nutrient solution.
 
 *   Miscellaneous:
 
-*   Trays for collecting excess water and preventing spills.
-*   Plant labels for identifying the different plants.
+**   Trays for collecting excess water and preventing spills.
+**   Plant labels for identifying the different plants.
 
 Essential Factors and Negative Consequences to Consider
 -------------------------------------------------------
@@ -150,39 +150,52 @@ Develop a Plan
 
 Based on the needs assessment, create a comprehensive plan that includes the goals, objectives, and timeline for the program, as well as the roles and responsibilities of all involved parties. The following is a working plan for setting up an urban farm.
 
-1.  Goals and Objectives:
-
-*   Goal: To establish a sustainable and successful urban farm program that provides educational and community benefits.
-*   Objectives:
-
-1.  To provide hands-on learning opportunities for students in areas such as agriculture, science, and sustainability.
-2.  To produce high-quality, fresh produce for local consumption.
-3.  To engage the local community in the urban farming process and promote healthy living.
-4.  To minimize environmental impact and promote sustainable agricultural practices.
-5.  To generate revenue to support the ongoing operation and growth of the urban farm program.
-
-3.  Timeline:
-
-*   Month 1-2: Conduct a needs assessment and secure funding and resources.
-*   Month 3-4: Finalize the design and layout of the urban farm, including the selection of crops and hydroponic systems.
-*   Month 5-6: Install the hydroponic systems and prepare the farm for planting.
-*   Month 7-8: Plant the first crops and initiate the urban farming program.
-*   Month 9-12: Monitor and maintain the urban farm, including the growth of the crops, water and nutrient levels, and pest management.
-*   Month 13-24: Evaluate the success of the program, make necessary adjustments, and continue to monitor and maintain the urban farm.
-
-5.  Roles and Responsibilities:
-
-*   Project Manager: The project manager will be responsible for overseeing the entire urban farm program, including the needs assessment, funding and resource acquisition, and implementation of the plan.
-*   School Officials: School officials will provide support and guidance to the project manager and will help secure resources and funding for the program.
-*   Teachers: Teachers will work with the project manager to integrate the urban farm program into the school curriculum and will provide hands-on learning opportunities for students.
-*   Students: Students will participate in the hands-on learning opportunities provided by the urban farm program and will help maintain the farm and harvest the crops.
-*   Community Members: Community members will be engaged in the urban farming process, including volunteering, supporting the farm through purchases of produce, and participating in educational workshops and events.
-
-7.  Evaluation and Monitoring:
-
-*   Regular monitoring of the success of the urban farm program will be conducted to ensure that it is meeting its goals and objectives.
-*   Evaluation metrics will include the production and sale of crops, student engagement and learning outcomes, community involvement, and financial viability.
-*   Feedback from students, teachers, community members, and other stakeholders will be regularly sought and incorporated into the program as necessary.
+<ol>
+<li>Goals and Objectives:
+<ul>
+<li>Goal:
+<ul>
+<li>To establish a sustainable and successful urban farm program that provides educational and community benefits.</li>
+</ul>
+</li>
+<li>Objectives:
+<ul>
+<li>To provide hands-on learning opportunities for students in areas such as agriculture, science, and sustainability.</li>
+<li>To produce high-quality, fresh produce for local consumption.</li>
+<li>To engage the local community in the urban farming process and promote healthy living.</li>
+<li>To minimize environmental impact and promote sustainable agricultural practices.</li>
+<li>To generate revenue to support the ongoing operation and growth of the urban farm program.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Timeline:
+<ul>
+<li>Month 1-2: Conduct a needs assessment and secure funding and resources.</li>
+<li>Month 3-4: Finalize the design and layout of the urban farm, including the selection of crops and hydroponic systems.</li>
+<li>Month 5-6: Install the hydroponic systems and prepare the farm for planting.</li>
+<li>Month 7-8: Plant the first crops and initiate the urban farming program.</li>
+<li>Month 9-12: Monitor and maintain the urban farm, including the growth of the crops, water and nutrient levels, and pest management.</li>
+<li>Month 13-24: Evaluate the success of the program, make necessary adjustments, and continue to monitor and maintain the urban farm.</li>
+</ul>
+</li>
+<li>Roles and Responsibilities:
+<ul>
+<li>Project Manager: The project manager will be responsible for overseeing the entire urban farm program, including the needs assessment, funding and resource acquisition, and implementation of the plan.</li>
+<li>School Officials: School officials will provide support and guidance to the project manager and will help secure resources and funding for the program.</li>
+<li>Teachers: Teachers will work with the project manager to integrate the urban farm program into the school curriculum and will provide hands-on learning opportunities for students.</li>
+<li>Students: Students will participate in the hands-on learning opportunities provided by the urban farm program and will help maintain the farm and harvest the crops.</li>
+<li>Community Members: Community members will be engaged in the urban farming process, including volunteering, supporting the farm through purchases of produce, and participating in educational workshops and events.</li>
+</ul>
+</li>
+<li>Evaluation and Monitoring:
+<ul>
+<li>Regular monitoring of the success of the urban farm program will be conducted to ensure that it is meeting its goals and objectives.</li>
+<li>Evaluation metrics will include the production and sale of crops, student engagement and learning outcomes, community involvement, and financial viability.</li>
+<li>Feedback from students, teachers, community members, and other stakeholders will be regularly sought and incorporated into the program as necessary.</li>
+</ul>
+</li>
+</ol>
 
 Choose Crops
 ============
