@@ -25,8 +25,8 @@ The map will need to include some of the following to get a good understanding o
 *   Sun exposure: Determine the amount of sunlight that each potential site receives, as different crops may have different light requirements.
 *   Soil quality: Evaluate the soil quality of potential growing sites, as some areas may have soil that is contaminated or otherwise unsuitable for growing crops.
 *   Infrastructure: Map out existing infrastructure, such as roads, buildings, and sidewalks, as well as any utility lines, such as power and water, that may impact the program.
-*   Climate: Consider the climate in Indianapolis, including average temperatures, precipitation, and wind patterns, as these factors can affect crop growth and production.
-*   Demographics: Review demographic data for the downtown Indianapolis area, including population density, income levels, and cultural background, to understand the potential market for the program's produce.
+*   Climate: Consider the climate in your area, including average temperatures, precipitation, and wind patterns, as these factors can affect crop growth and production.
+*   Demographics: Review demographic data for your local area, including population density, income levels, and cultural background, to understand the potential market for the program's produce.
 *   Community resources: Identify community resources that may be useful for the program, such as community gardens, farmers' markets, or local non-profit organizations that support urban agriculture.
 
 Who to Engage
