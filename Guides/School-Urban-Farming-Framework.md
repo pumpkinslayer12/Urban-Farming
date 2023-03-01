@@ -41,84 +41,103 @@ Who to Engage
 Resources Needed to Begin Outdoor Farm
 --------------------------------------
 
-*   Garden tools:
-
-**   Shovels, hoes, and rakes for preparing and maintaining the soil.
-**   Pruning shears for harvesting crops and maintaining plants.
-**   Wheelbarrow for moving soil and compost.
-**   Watering cans and hose for watering plants.
-
-*   Irrigation equipment:
-
-**   Drip irrigation systems for providing a consistent water supply to crops.
-**   Sprinklers for larger areas or for irrigating taller crops.
-**   Hoses and fittings for connecting the irrigation system.
-
-*   Protective gear:
-
-**   Gloves for protecting hands from sharp tools and plant materials.
-**   Sunscreen and hats for protecting skin from the sun.
-**   Long pants and sleeves for protecting skin from insects and thorns.
-
-*   Planting equipment:
-
-**   Hand trowel for planting seedlings and small plants.
-**   Bulb planter for planting bulbs and other larger plants.
-**   Transplanter for moving seedlings and small plants to their final locations.
-
-*   Materials for building raised beds:
-
-**   Lumber or other materials for building the bed frames.
-**   Soil, compost, and fertilizer for filling the beds.
-**   Weed cloth and mulch for suppressing weeds and conserving moisture.
-
-*   Other equipment:
-
-**   Tarp or other covering material for protecting crops during inclement weather.
-**   Stakes and twine for training and supporting tall crops.
-**   Scale for measuring and tracking crop yields.
-**   Thermometer for monitoring ambient temperature.
-**   Rain gauge to estimate total rainfall for a given period.
+<ul>
+<li>Garden tools:
+<ul>
+<li>Shovels, hoes, and rakes for preparing and maintaining the soil.</li>
+<li>Pruning shears for harvesting crops and maintaining plants.</li>
+<li>Wheelbarrow for moving soil and compost.</li>
+<li>Watering cans and hose for watering plants.</li>
+</ul>
+</li>
+<li>Irrigation equipment:
+<ul>
+<li>Drip irrigation systems for providing a consistent water supply to crops.</li>
+<li>Sprinklers for larger areas or for irrigating taller crops.</li>
+<li>Hoses and fittings for connecting the irrigation system.</li>
+</ul>
+</li>
+<li>Protective gear:
+<ul>
+<li>Gloves for protecting hands from sharp tools and plant materials.</li>
+<li>Sunscreen and hats for protecting skin from the sun.</li>
+<li>Long pants and sleeves for protecting skin from insects and thorns.</li>
+</ul>
+</li>
+<li>Planting equipment:
+<ul>
+<li>Hand trowel for planting seedlings and small plants.</li>
+<li>Bulb planter for planting bulbs and other larger plants.</li>
+<li>Transplanter for moving seedlings and small plants to their final locations.</li>
+</ul>
+</li>
+<li>Materials for building raised beds:
+<ul>
+<li>Lumber or other materials for building the bed frames.</li>
+<li>Soil, compost, and fertilizer for filling the beds.</li>
+<li>Weed cloth and mulch for suppressing weeds and conserving moisture.</li>
+</ul>
+</li>
+<li>Other equipment:
+<ul>
+<li>Tarp or other covering material for protecting crops during inclement weather.</li>
+<li>Stakes and twine for training and supporting tall crops.</li>
+<li>Scale for measuring and tracking crop yields.</li>
+<li>Thermometer for monitoring ambient temperature.</li>
+<li>Rain gauge to estimate total rainfall for a given period.</li>
+</ul>
+</li>
+</ul>
 
 Resources Needed to Begin Hydroponics Farm
 ------------------------------------------
 
-*   Hydroponic systems:
-
-**   Plastic containers or jars for growing plants.
-**   Hydroponic solution, such as water and nutrients, for nourishing the plants.
-**   Water and nutrient reservoirs for holding the hydroponic solution.
-
-*   Grow lights:
-
-**   LED grow lights or fluorescent lights for providing the necessary light to grow the plants.
-**   Light timers and/or ballasts for controlling the light cycle.
-
-*   Pumps and tubing:
-
-**   Submersible pumps for circulating the hydroponic solution.
-**   Tubing for connecting the pumps, air pumps, and containers.
-**   Air pumps and tubing for oxygenating the hydroponic solution.
-
-*   Climate control equipment:
-
-**   Heaters, fans, and air conditioners for maintaining optimal temperature and humidity levels for the plants.
-**   Thermometers and hygrometers for monitoring temperature and humidity levels.
-
-*   Soil-less growing media:
-
-**   Rockwool, coconut coir, or perlite for supporting the plants.
-**   Peat moss or vermiculite for retaining moisture in the growing media.
-
-*   Nutrient solution:
-
-**   Hydroponic nutrients specifically formulated for the plants being grown.
-**   pH test kit for monitoring and adjusting the pH of the nutrient solution.
-
-*   Miscellaneous:
-
-**   Trays for collecting excess water and preventing spills.
-**   Plant labels for identifying the different plants.
+<ul>
+<li>Hydroponic systems:
+<ul>
+<li>Plastic containers or jars for growing plants.</li>
+<li>Hydroponic solution, such as water and nutrients, for nourishing the plants.</li>
+<li>Water and nutrient reservoirs for holding the hydroponic solution.</li>
+</ul>
+</li>
+<li>Grow lights:
+<ul>
+<li>LED grow lights or fluorescent lights for providing the necessary light to grow the plants.</li>
+<li>Light timers and/or ballasts for controlling the light cycle.</li>
+</ul>
+</li>
+<li>Pumps and tubing:
+<ul>
+<li>Submersible pumps for circulating the hydroponic solution.</li>
+<li>Tubing for connecting the pumps, air pumps, and containers.</li>
+<li>Air pumps and tubing for oxygenating the hydroponic solution.</li>
+</ul>
+</li>
+<li>Climate control equipment:
+<ul>
+<li>Heaters, fans, and air conditioners for maintaining optimal temperature and humidity levels for the plants.</li>
+<li>Thermometers and hygrometers for monitoring temperature and humidity levels.</li>
+</ul>
+</li>
+<li>Soil-less growing media:
+<ul>
+<li>Rockwool, coconut coir, or perlite for supporting the plants.</li>
+<li>Peat moss or vermiculite for retaining moisture in the growing media.</li>
+</ul>
+</li>
+<li>Nutrient solution:
+<ul>
+<li>Hydroponic nutrients specifically formulated for the plants being grown.</li>
+<li>pH test kit for monitoring and adjusting the pH of the nutrient solution.</li>
+</ul>
+</li>
+<li>Miscellaneous:
+<ul>
+<li>Trays for collecting excess water and preventing spills.</li>
+<li>Plant labels for identifying the different plants.</li>
+</ul>
+</li>
+</ul>
 
 Essential Factors and Negative Consequences to Consider
 -------------------------------------------------------
