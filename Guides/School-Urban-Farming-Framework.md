@@ -136,7 +136,6 @@ For hydroponic urban farming in Indiana, with ideal lighting conditions and supp
 | Popular Crops | Cucumbers, strawberries, radishes         | Suited for hydroponics, high-demand                       |
 
 # Land Preparation
-# Revised Land Preparation Section
 
 ## Land Preparation for Urban Farming
 
