@@ -1,5 +1,3 @@
-How can this framework be improved or is it fairly well put together?
-
 # School Urban Farming Framework
 
 # Overview
