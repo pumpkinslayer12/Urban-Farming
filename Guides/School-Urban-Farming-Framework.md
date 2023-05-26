@@ -62,53 +62,48 @@ Important factors include land availability, water resources, climate and weathe
 
 Possible funding strategies include applying for grants, crowdfunding, establishing partnerships and sponsorships, soliciting donations, volunteer support, selling produce, and organizing sponsored events.
 
-# Revised Plan Development Section
 
-## Crafting a Comprehensive Urban Farm Plan
+# 6-week Urban Farm Plan
 
-Based on the needs assessment, the urban farm plan incorporates goals, objectives, timeline, roles, responsibilities, and evaluation measures.
+## Creating a Streamlined Urban Farm Plan
 
-### Goals and Objectives
+The urban farm plan strategically integrates needs assessment outcomes into a compact structure emphasizing goals, objectives, timeline, roles, responsibilities, and evaluation metrics.
 
-* **Goal:** Establish a sustainable urban farm program that benefits education and the community.
+## Goals and Objectives
+
+* **Goal:** Activate an enduring urban farm initiative to augment education and foster community bonds.
 * **Objectives:** 
-  * Facilitate student learning in agriculture, science, and sustainability.
-  * Supply quality, fresh produce for local consumption.
-  * Engage the local community in urban farming and promote healthy living.
-  * Emphasize sustainable agricultural practices and minimize environmental impact.
-  * Generate revenue for continuous operation and growth of the program.
+  * Enrich student learning with practical exposure to agriculture, science, and sustainability.
+  * Deliver top-notch, fresh produce for local consumption.
+  * Stimulate community participation in urban farming, promoting a healthy lifestyle.
+  * Advocate for eco-friendly agricultural practices to limit environmental repercussions.
+  * Generate steady revenue to ensure program continuity and growth.
 
-### Implementation Timeline
+## Implementation Timeline
 
 | Timeframe    | Tasks                                                                           |
 | ------------ | ------------------------------------------------------------------------------- |
-| Months 1-2   | Needs assessment, secure funding and resources.                                 |
-| Months 3-4   | Finalize urban farm design and layout, including crop and hydroponic choices.   |
-| Months 5-6   | Install hydroponic systems and prepare the farm for planting.                   |
-| Months 7-8   | Initiate the urban farming program with the first crop planting.                |
-| Months 9-12  | Monitor and maintain the urban farm, ensuring crop growth and pest management.  |
-| Months 13-24 | Evaluate program success, make necessary adjustments, and continue maintenance. |
+| Week 1 | Conduct needs assessment, secure preliminary resources and funding. Draft urban farm layout, decide on crop/hydroponic selections. Initiate food safety and farming training. |
+| Week 2 | Complete hydroponic system installations and farm setup. Progress with food safety and farming training. |
+| Week 3 | Officially commence the urban farming initiative with first crop planting. Conclude food safety and farming training. |
+| Week 4-6 | Kick off regular monitoring and maintenance with a focus on crop growth and pest management. Launch food preparation training as an ongoing process. |
 
+## Roles and Responsibilities
 
-### Roles and Responsibilities
+* **Project Manager:** Steer the program from needs assessment to resource allocation and plan execution.
+* **School Officials:** Provide support in securing resources and funding.
+* **Teachers:** Partner with the project manager to weave the farm program into curriculum, creating experiential learning opportunities.
+* **Students:** Participate in hands-on learning, assist in farm operations and crop harvest. Attend food safety, farming and food prep training sessions.
+* **Community Members:** Engage in farming activities, volunteer, support through produce purchases, and join educational events.
 
-* **Project Manager:** Oversee the entire program, from needs assessment to resource acquisition and plan implementation.
-* **School Officials:** Offer guidance and assist in securing resources and funding.
-* **Teachers:** Collaborate with the project manager to incorporate the farm program into the curriculum and provide experiential learning opportunities.
-* **Students:** Participate in learning opportunities and assist with farm maintenance and crop harvesting.
-* **Community Members:** Engage in the farming process, volunteer, purchase produce, and participate in educational events.
+## Evaluation and Monitoring
 
-### Evaluation and Monitoring
-
-Regular monitoring ensures alignment with goals and objectives. Evaluation metrics include crop production and sales, student engagement and learning outcomes, community involvement, and financial viability. Regular feedback from all stakeholders will be used to continually refine the program.
-
-# Revised Crop Selection Section
-
-## Urban Farm Crop Selection
+Ensure regular monitoring to maintain alignment with objectives, utilizing evaluation metrics such as crop productivity, sales, student engagement, learning outcomes, community participation, and fiscal sustainability. Continuous feedback from all stakeholders is crucial for the program's iterative refinement and ultimate success.
+# Crop Selection
 
 Selecting suitable crops is vital for successful urban farming, considering growing conditions, local climate, soil quality, demand, and marketability of crops. Maximizing yield, profitability, and providing a sustainable food source are reliant on choosing the right crops. It's advisable to conduct market research and evaluate the local growing conditions beforehand.
 
-### Outdoor Raised Beds
+## Outdoor Raised Beds
 
 For an urban farm in Indiana, utilizing local climate, fertile soil, and raised beds with drip irrigation, the following crops are ideal:
 
@@ -123,7 +118,7 @@ For an urban farm in Indiana, utilizing local climate, fertile soil, and raised 
 | Popular Crops    | Cucumbers, strawberries  | Suited for raised beds, high-demand                    |
 | Melons           | Watermelons, cantaloupes | Locally suited, high-demand                            |
 
-### Indoor or Outdoor Hydroponics
+## Indoor or Outdoor Hydroponics
 
 For hydroponic urban farming in Indiana, with ideal lighting conditions and supplemental drip irrigation, consider the following crops:
 
@@ -170,65 +165,60 @@ Preparing an indoor or outdoor hydroponic system involves these steps:
 | Planting                       | Plant seeds or seedlings in the hydroponic system, adhering to crop-specific instructions.                                                                   |
 | Monitoring                     | Regularly check that the water level, temperature, and nutrient levels are within the proper range. Make necessary adjustments for optimal plant growth.     |
 | Irrigation Testing             | Confirm the irrigation system functions properly and provides adequate water and nutrient coverage.                                                          |
+# Blueprint for Urban Farming Success
 
-# Program Implementation
+In orchestrating a thriving urban farm program, meticulous planning and execution are imperative. This stage embodies your plans, laying a robust foundation for perpetual growth and prosperity. This involves practicing sustainable cultivation methods, initializing training for involved parties, and guaranteeing clean and adequate water supplies. Let's delve deeper into these areas.
 
-Implementing a successful urban farm program entails thorough planning and execution. This phase breathes life into your plans and sets the foundation for continuous growth and success. It involves the execution of sustainable growing practices, initial training for involved individuals, and ensuring safe and sufficient water. Let's delve into each of these areas.
+## Sustainable and Organic Cultivation Techniques
 
-## Sustainable and Organic Growing Practices
+Common practices to consider:
 
-Here are some common practices:
+- **Crop Rotation:** Enhances soil vitality and reduces pest and disease accumulation.
+- **Composting:** Bolsters soil health, diminishes waste, utilizing organic materials like vegetable scraps and yard waste.
+- **Cover Cropping:** Assists in soil health augmentation, soil erosion mitigation, and weed control.
+- **Natural Pest Management:** Techniques like companion planting and beneficial insects attraction.
+- **Irrigation Management:** Embraces water-saving methods like drip irrigation and mulching.
+- **Minimizing Chemical Use:** Encourages minimized synthetic fertilizers and pesticides use, leaning towards organic methods.
+- **Soil Testing:** Regular evaluations to monitor soil fertility ensuring it's healthy and supportive of plant growth.
+- **Crop Selection:** Adapting to local growing conditions to decrease inputs and increase yields.
 
-- **Crop Rotation:** Helps improve soil health and mitigates pest and disease buildup.
-- **Composting:** Enhances soil health, reduces waste, and is made from organic materials like vegetable food scraps and yard waste.
-- **Cover Cropping:** Aids in soil health improvement, soil erosion reduction, and weed control.
-- **Natural Pest Management:** Involves techniques like companion planting and beneficial insects attraction.
-- **Irrigation Management:** Encompasses water-saving techniques like drip irrigation and mulching.
-- **Minimizing Chemical Use:** Advocates for reduced synthetic fertilizers and pesticides use, favoring organic methods.
-- **Soil Testing:** Regular tests to monitor soil fertility and ensure it's healthy and supportive of plant growth.
-- **Crop Selection:** Considers local growing conditions to minimize inputs and increase yields.
+## Comprehensive Training for Students and Staff
 
-## Initial Training for Students and Staff
+Training modules to include:
 
-Training should cover:
-
-1. **Basic plant biology and physiology**
+1. **Plant biology and physiology basics**
 2. **Soil science and hydroponics**
-3. **Urban farming practices**
-4. **Irrigation setup and maintenance**
+3. **Urban farming methodologies**
+4. **Irrigation setup and upkeep**
 5. **Farm maintenance**
 6. **Harvesting and post-harvest handling**
 
-## Ensuring Safe and Sufficient Water
+## Securing Safe and Sufficient Water
 
-Clean water is essential for plant growth. Consider filtration for municipal water sources or rainwater use. Let's look at how to handle both water sources.
+Clean water is fundamental for plant growth. Filtration for municipal water sources or rainwater usage should be considered. Here's how to manage both water sources.
 
-### Water Filtration from Municipal Water Sources
+### Municipal Water Sources Filtration
 
-1. **Choose filtration system**: A multi-stage filtration system.
-2. **Gather materials**: Storage tank, pump, filters, tubing, activated carbon, etc.
-3. **Build the system**: Connect sediment filter and activated carbon filter in series.
-4. **Install filters**: Connect to pump and tubing, then tubing to storage tank.
-5. **Test the water**: Check for chemical and mineral content.
-6. **Use the filtered water**: After water quality verification, use for irrigation.
+1. **Filtration system selection**: Opt for a multi-stage filtration system.
+2. **Materials accumulation**: Storage tank, pump, filters, tubing, activated carbon, etc.
+3. **System construction**: Sequentially connect sediment filter and activated carbon filter.
+4. **Filters installation**: Connect to pump and tubing, then tubing to storage tank.
+5. **Water testing**: Assess chemical and mineral content.
+6. **Filtered water usage**: Post water quality verification, use for irrigation.
 
-### Collecting Rainwater
+### Rainwater Collection
 
-1. **Check rainwater quality**: Do this regularly.
-2. **Place rain barrel or storage container**: Position it under a gutter downspout.
-3. **Screen the container**: Prevent debris and pests from entering.
-4. **Keep the container covered**: Maintain water quality.
-5. **Install a spigot or hose bib**: Easy access to the water.
+1. **Rainwater quality verification**: Regular checks.
+2. **Rain barrel or storage container positioning**: Place it under a gutter downspout.
+3. **Container screening**: Prevent debris and pests infiltration.
+4. **Container coverage**: To maintain water quality.
+5. **Spigot or hose bib installation**: Ensures easy water access.
 
-## Basic Plant Growth Guidelines
+## Optimal Plant Growth Guide
 
-Let's consider two different systems - raised beds and hydroponics.
+Two systems to consider - raised beds and hydroponics.
 
-Apologies for the oversight. Let's correct that.
-
-### Leveraging Raised Beds
-
-Here are optimal conditions for various crops:
+### Optimizing Raised Beds
 
 | Crop         | Soil pH | Sunlight            | Temperature | Watering              | Fertilizing               | Companion Plants       |
 | ------------ | ------- | ------------------- | ----------- | --------------------- | ------------------------- | ---------------------- |
@@ -243,23 +233,20 @@ Here are optimal conditions for various crops:
 | Strawberries | 6.0-7.0 | Full Sun-Part Shade | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Leafy Greens, Brassica |
 | Melons       | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Corn, Squash           |
 
-**Note:** These are general guides. Conditions may vary depending on climate and microclimate.
+**Note:** These are generic guides. Conditions may alter depending on climate and microclimate.
 
-### Leveraging Hydroponics
-
-Here are optimal conditions for various crops:
+### Harnessing Hydroponics
 
 | Crop         | Solution pH | Light Intensity | Temperature | Humidity | Other Considerations                   |
 | ------------ | ----------- | --------------- | ----------- | -------- | -------------------------------------- |
 | Leafy Greens | 5.5-6.5     | High            | 60-75°F     | 50-70%   | Harvest at desired size                |
 | Herbs        | 6.0-7.0     | High            | 60-75°F     | 50-70%   | Harvest leaves at desired size         |
 | Microgreens  | 5.5-6.5     | High            | 70-75°F     | -        | Harvest when cotyledons have developed |
-| Tomatoes     | 5.5-6.5     | High            | 65-75°F     | -        | Manually pollinate for fruiting        |
-| Peppers      | 5.5-6.5     | High            | 65-75°F     | -        | Manually pollinate for fruiting        |
-| Cucumbers    | 5.5-6.5     | High            | 65-75°F     | -        | Manually pollinate for fruiting        |
+| Tomatoes     | 5.5-6.5     | High            | 65-75°F     | -        | Manual pollination required for fruiting |
+| Peppers      | 5.5-6.5     | High            | 65-75°F     | -        | Manual pollination required for fruiting |
+| Cucumbers    | 5.5-6.5     | High            | 65-75°F     | -        | Manual pollination required for fruiting |
 
-**Note:** Hydroponic growing conditions can vary. Research specific plants for best results.
-
+**Note:** Hydroponic growing conditions can vary. Conduct specific plant research for optimal results.
 # Progress Monitoring
 
 To ensure the success of your urban farm, proactive monitoring and management of your crops and environment is essential. Key elements to keep an eye on include:
