@@ -10,299 +10,131 @@ Furthermore, the framework provides guidance on monitoring and managing pests, w
 
 Overall, this framework equips schools with essential information and resources to start and manage an urban farm effectively.
 
-# In-depth Needs Assessment
-
-## Unfolding the Needs and Engaging Stakeholders
-
-A thorough needs assessment for a school urban farm is an indispensable initial step. It involves not just understanding the resources at your disposal, but also actively involving key stakeholders. This foundational groundwork helps understand community needs, available resources, potential limitations, and serves to tailor the farm project to the school and its wider community.
-
-### Profiling the School Community and Resources
-
-Start by taking stock of the school's existing resources and environment. 
-
-* **Land Assessment:** Determine the optimal areas for crop cultivation, such as unused lots or rooftops.
-* **Water Resource Identification:** Recognize viable irrigation sources, including rainwater harvesting or municipal water supply.
-* **Sunlight Evaluation:** Examine sunlight exposure across potential sites to ensure crops receive adequate light.
-* **Soil Examination:** Investigate soil health, check for potential contaminants, and evaluate the soil's suitability for growing desired crops.
-* **Infrastructure Mapping:** Catalog existing infrastructure, such as roads, buildings, and utility lines, that might affect the project.
-* **Climate Factors:** Study local climate variables, like average temperatures, rainfall patterns, and wind speeds, which will influence what you can grow.
-* **Demographic Study:** Review the local community's demographics to ascertain the potential market for your produce.
-* **Community Resource Exploration:** Identify community resources that can assist, such as existing community gardens or supportive non-profit organizations.
-
-### Engaging Stakeholders: Building a Shared Vision
-
-A successful urban farm project requires buy-in from a wide range of stakeholders. Engage with the school administration, teachers, students, local residents, urban agriculture experts, and relevant government bodies. Active engagement ensures the project aligns with both school goals and wider community needs, and complies with local regulations.
-
-1. **School Administration & Teachers:** Involve them from the outset to align the project with educational goals and integrate it into the curriculum. 
-2. **Students:** Engage students in planning, design, and operations to cultivate ownership and enhance learning experiences. 
-3. **Local Community:** Include local residents in early discussions to understand their needs and aspirations and to ensure the project is community-oriented.
-4. **Urban Agriculture Experts:** Collaborate with these professionals for technical advice and to enhance the project's success.
-5. **Government Agencies:** Ensure regulatory compliance and seek potential funding or other support.
-
-### Complying with Legal and Regulatory Frameworks
-
-Adherence to the relevant legal and regulatory frameworks is integral to your urban farming project's success. Below is an overview of key considerations:
-
-1. **Zoning and Land Use Regulations:** Contact local authorities for information on urban farming regulations, building codes, and permits or licenses you might require.
-   
-2. **Water Usage and Rights:** Respect local water usage guidelines and secure any necessary permits. Comprehend your obligations related to irrigation, particularly if using alternative water sources like rainwater.
-
-3. **Food Safety and Health Regulations:** Familiarize yourself with the regulations regarding the production, handling, and sale of your produce. Implement procedures to comply with these standards.
-
-4. **Pesticide and Chemical Use:** Understand local regulations concerning pesticide and chemical use. Follow application guidelines and consider organic farming practices.
-
-5. **Environmental Impact Assessments:** For large projects, an environmental impact assessment might be needed. Consider potential impacts on soil erosion, water runoff, and nutrient management.
-
-6. **Community Engagement and Public Perception:** Engage with the local community to address any concerns related to noise, odor, traffic, or other potential impacts.
-
-For specific regulatory information, consult with local authorities, agricultural extension services, or legal professionals. 
-
-## Procuring Essential Resources
-
-Initiating an urban farm requires resources for both outdoor and hydroponic farming:
-
-### Outdoor Farming
-
-* **Tools:** A variety of tools are needed, ranging from shovels, hoes, rakes, to watering cans, and a wheelbarrow.
-* **Irrigation Equipment:** Drip irrigation systems, sprinklers, hoses, and fittings.
-* **Safety Gear:** Gloves, sunscreen, hats, and protective clothing.
-* **Planting Equipment:** Hand trowel, bulb planter, transplanter.
-* **Raised Bed Materials:** Lumber, soil, compost, fertilizer, weed cloth, and mulch.
-* **Miscellaneous:** Tarps, stakes, twine, scale, thermometer, rain gauge.
-
-### Hydroponic Farming
-
-* **Hydroponic Systems:** Plastic containers, hydroponic solution, water and nutrient reservoirs, grow surface for plants.
-* **Grow Lights:** LED or fluorescent lights, light timers, and ballasts.
-* **Pumps and Tubing:** Submersible pumps, tubing, air pumps.
-* **Climate Control:** Heaters, fans, air conditioners, thermometers, and hygrometers.
-* **Growing Media:** Rockwool, coconut coir, perlite, expanded clay pellets, or vermiculite.
-* **Nutrient Solution:** Hydroponic nutrients, pH test kit.
-* **Miscellaneous:** Trays, plant labels, net cups.
+# Needs Assessment, Resources, Funding, and Community Engagement 
 
 
-## Funding Strategies
+Urban farming in schools can offer a multitude of benefits, ranging from hands-on educational opportunities to promoting sustainability and enhancing community engagement. This guide provides a comprehensive framework for successfully establishing and managing an urban school farm, discussing critical components such as needs assessment, resource procurement, funding strategies, and community engagement.
 
-Effective funding acquisition is a core aspect of successful urban farming. Possible strategies include:
+## Evaluating Needs and Engaging Stakeholders for Urban School Farming
 
-1. **Grants:** Explore available government, non-profit, or private foundation grants.
-2. **Crowdfunding:** Utilize crowdfunding platforms to raise funds and increase project awareness.
-3. **Partnerships and Sponsorships:** Collaborate with local businesses and organizations for mutual benefits.
-4. **Donations:** Facilitate donations from community members through donation drives or online platforms.
-5. **Volunteer Support:** Minimize operational costs with robust volunteer programs.
-6. **Sales of Produce:** Generate income through the sale of farm-grown produce.
-7. **Sponsored Events:** Organize sponsored events that generate funds, promote the project, and engage the community.
+Before starting an urban farming project, it's essential to conduct a thorough needs assessment. Understanding the resources at your disposal and engaging key stakeholders early on lays the foundation for a tailored, sustainable, and successful farm that meets the needs of your school and its wider community.
 
-Maintaining transparency in fund usage is key to ongoing fundraising success and accountability.
+### Resources and Community Profile: First Steps in Needs Assessment 
 
+To understand what resources you have available for your school urban farm, start by profiling your school community and available resources:
 
-# Deepening Community Engagement
+1. **Environmental Factors:** Assess the potential farming areas, such as unused land or rooftops, and evaluate factors like sunlight exposure, soil health, climate conditions, and potential water sources.
+2. **Infrastructure Mapping:** Identify existing infrastructure that could impact your project, such as buildings, roads, and utility lines.
+3. **Demographic Study:** Understand your community's demographics to determine the potential market for your produce.
+4. **Community Resources:** Identify potential partners in the community, such as existing community gardens, supportive non-profit organizations, or urban agriculture experts who could offer advice or support.
 
-The long-term success and sustainability of an urban farming initiative hinges on its ability to actively engage with various community stakeholders. This interaction fosters a shared sense of responsibility and ownership, boosting support and magnifying the positive community impact. Below, we delve deeper into specific community engagement strategies:
+### Building a Shared Vision: The Role of Stakeholder Engagement 
 
-1. **Community Outreach:** Organize regular events like 'open farm' days, workshops, and seminars to foster community involvement. Encourage students to become 'farm ambassadors,' spreading awareness about the urban farm's work and benefits. Involve local experts to share knowledge, thereby creating a platform for knowledge sharing and community bonding.
+Involving stakeholders from the outset ensures alignment with school goals and community needs, as well as compliance with local regulations. Key stakeholders include school administration, teachers, students, local residents, urban agriculture experts, and relevant government bodies.
 
-2. **Volunteer Programs:** Develop a comprehensive volunteer program, allowing community members to contribute in areas of their interest or expertise. This could include crop planning, planting, maintenance, harvesting, or running educational workshops. Develop a reward or recognition system to appreciate volunteer contributions, enhancing community involvement.
+### Navigating Legal and Regulatory Frameworks 
 
-3. **Collaborative Projects:** Initiate urban farming related projects in partnership with local businesses, non-profit organizations, or community groups. This could involve joint fundraising events, creating shared composting facilities, or hosting farmer's markets. Collaborative projects boost the farm's visibility, create a sense of community ownership, and foster shared values.
+To ensure your project's success and legality, familiarize yourself with and comply with the relevant legal and regulatory frameworks, from land use regulations and water usage rights to food safety and health regulations.
 
-4. **Farm-to-Table Programs:** Create partnerships with local restaurants, cafes, or farmers markets that can utilize the farm's produce. Beyond the economic benefits, this strengthens the local food network, raises awareness about local food sourcing, and positions your urban farm as a community asset.
+## Procuring Essential Resources for Urban Farming 
 
-5. **Educational Events:** Run workshops, field trips, or demonstrations focusing on the educational and environmental aspects of the urban farm. Include hands-on activities like 'plant your vegetable' days or 'sustainable cooking' classes. These educational events should engage various community members, promoting sustainable farming practices.
+Once you've completed your needs assessment, you'll need to gather the resources necessary for your urban farm. These might vary depending on whether you plan to use outdoor or hydroponic farming methods. 
 
-6. **Community Gardens:** Establish community gardens in collaboration with local residents or organizations. Offer plot rentals for residents to grow their produce, or create 'adopt a plot' programs for local businesses. These initiatives provide additional gardening opportunities and reinforce a sense of shared responsibility for sustainable food production.
+### Outdoor Farming Resources
 
-By employing these targeted community engagement strategies, your urban farm can cultivate a broad, active support network, spark enthusiasm for the initiative, and ensure a deep-rooted connection with the wider community.
+Outdoor farming will require tools, irrigation equipment, safety gear, planting equipment, and materials for raised beds.
 
-# Crop Selection
+### Hydroponic Farming Resources 
 
-Selecting suitable crops is vital for successful urban farming, considering growing conditions, local climate, soil quality, demand, and marketability of crops. Maximizing yield, profitability, and providing a sustainable food source are reliant on choosing the right crops. It's advisable to conduct market research and evaluate the local growing conditions beforehand.
+For hydroponic farming, you'll need to invest in hydroponic systems, grow lights, pumps and tubing, climate control systems, growing media, and nutrient solutions.
 
-## Outdoor Raised Beds
+## Securing Funding for Urban School Farming 
 
-For an urban farm in Indiana, utilizing local climate, fertile soil, and raised beds with drip irrigation, the following crops are ideal:
+Securing adequate funding is crucial to the success of your urban farming project. Consider strategies such as grants, crowdfunding, partnerships and sponsorships, donations, sales of produce, volunteer support, and sponsored events.
 
-| Crop Category    | Examples                 | Notes                                                  |
-| ---------------- | ------------------------ | ------------------------------------------------------ |
-| Leafy Greens     | Lettuce, spinach, kale   | Locally suited, high-demand                            |
-| Herbs            | Basil, parsley, cilantro | Easy to grow, culinary and medicinal value             |
-| Root Crops       | Carrots, beets, radishes | Suited for raised beds, high-demand                    |
-| Staple Crops     | Tomatoes, peppers        | Staple for urban gardens, suitable for drip irrigation |
-| Squash Varieties | Zucchini, yellow squash  | Locally suited, high-demand                            |
-| Legumes          | Green beans, snap peas   | Easy to grow, high-demand                              |
-| Popular Crops    | Cucumbers, strawberries  | Suited for raised beds, high-demand                    |
-| Melons           | Watermelons, cantaloupes | Locally suited, high-demand                            |
+## Enhancing Community Engagement: The Key to Sustainable Success 
 
-## Indoor or Outdoor Hydroponics
+An urban farming initiative's long-term success relies heavily on active engagement with various community stakeholders. Strategies for deepening community engagement include:
 
-For hydroponic urban farming in Indiana, with ideal lighting conditions and supplemental drip irrigation, consider the following crops:
+1. **Community Outreach:** Regular events and workshops, farm ambassador programs, and knowledge-sharing platforms can help foster community involvement.
+2. **Volunteer Programs:** Allowing community members to contribute in areas of their interest or expertise can increase participation and a sense of ownership.
+3. **Collaborative Projects:** Partnering with local businesses, non-profit organizations, or community groups can increase visibility and create a sense of shared responsibility.
+4. **Farm-to-Table Programs:** Partnerships with local food businesses can strengthen the local food network and position your urban farm as a community asset.
+5. **Educational Events:** Workshops, field trips, and demonstrations can promote sustainable farming practices and engage various community members.
+6. **Community Gardens:** Establish
 
-| Crop Category | Examples                                  | Notes                                                     |
-| ------------- | ----------------------------------------- | --------------------------------------------------------- |
-| Leafy Greens  | Lettuce, spinach, kale                    | Suited for hydroponics, high-demand                       |
-| Herbs         | Basil, parsley, cilantro                  | Easy to grow in hydroponics, culinary and medicinal value |
-| Microgreens   | Wheatgrass, pea shoots, sunflower sprouts | Popular in hydroponics, high-demand                       |
-| Staple Crops  | Tomatoes, peppers                         | Staple for hydroponic gardens                             |
-| Popular Crops | Cucumbers, strawberries, radishes         | Suited for hydroponics, high-demand                       |
+ing community gardens can provide additional gardening opportunities and reinforce a sense of shared responsibility for sustainable food production.
 
-# Land Preparation
+By applying this comprehensive framework, you can create a successful urban farming initiative that enriches the school environment, enhances community engagement, promotes sustainable practices, and serves as a valuable educational resource.
 
-## Land Preparation for Urban Farming
+# Crop Selection and Land Preparation
 
-Land preparation is a critical step towards establishing a successful urban farm. It involves selecting a suitable site, evaluating soil and water conditions, and optimizing the site for healthy crop growth. Factors such as light availability, drainage, and nutrient availability should guide site selection and soil preparation, thereby ensuring a productive urban farm.
+Whether you plan to engage in traditional outdoor farming using raised beds or take the route of hydroponic farming, two crucial steps to consider in urban school farming are crop selection and land preparation. This comprehensive guide provides a roadmap to help you determine what crops to grow and how to prepare your land to get the best yield possible.
+
+## Crop Selection: Maximizing Yield and Suitability
+
+The crops you select will directly impact the success of your urban farming project. They should align with growing conditions, local climate, soil quality, and market demand. Research the local market to understand the demand for different crops and evaluate local growing conditions to ensure you select the most suitable crops.
+
+For traditional farming in Indiana, consider leafy greens like lettuce, spinach, and kale, herbs such as basil, parsley, and cilantro, root crops like carrots, beets, and radishes, and popular crops such as tomatoes, peppers, cucumbers, and strawberries. For hydroponic farming, stick to the leafy greens, herbs, and popular crops, but also consider growing microgreens like wheatgrass, pea shoots, and sunflower sprouts.
+
+## Land Preparation: Setting the Stage for Growth
+
+Land preparation, whether for outdoor raised beds or indoor/outdoor hydroponic systems, is critical in establishing a thriving urban farm. It includes selecting the right site, evaluating and preparing the soil or system, and ensuring adequate light, drainage, and nutrient availability.
 
 ### Outdoor Raised Bed Preparation
 
-To prepare an outdoor raised bed, follow these steps:
-
-| Step                     | Description                                                                                                                                                          |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site Assessment          | Assess soil type, existing vegetation, and potential challenges.                                                                                                     |
-| Clearing and Tilling     | Clear vegetation and till soil to a depth of 12 inches for proper root growth.                                                                                       |
-| Soil Amendment           | Improve soil fertility and structure by adding organic matter like compost or well-rotted manure. Test soil for pH and nutrient levels and add necessary amendments. |
-| Irrigation Installation  | Install a drip irrigation system for efficient watering.                                                                                                             |
-| Raised Beds Construction | Build raised beds with sturdy materials, such as cedar or treated lumber. Beds should be at least 12 inches high and 2-3 feet wide for easy access.                  |
-| Soil Preparation         | Mix compost and soil amendment into the top layer of soil in the raised beds.                                                                                        |
-| Mulching                 | Apply 2-3 inches of organic mulch over the soil in the raised beds to conserve moisture, regulate soil temperature, and suppress weed growth.                        |
-| Install Supports         | Install supports like trellises or stakes to support tall crops such as tomatoes or beans.                                                                           |
-| Irrigation Testing       | Ensure the irrigation system functions properly and provides adequate water coverage.                                                                                |
+For outdoor raised beds, begin by assessing your site and preparing the soil. Clear vegetation, till the soil, improve soil fertility and structure with compost or other organic matter, and test the soil's pH and nutrient levels. Build the raised beds using sturdy materials and install a drip irrigation system for efficient watering. Then, amend the soil in the raised beds, add mulch to conserve moisture, suppress weeds, and regulate soil temperature. Don't forget to install supports for tall crops and test your irrigation system.
 
 ### Indoor or Outdoor Hydroponic System Preparation
 
-Preparing an indoor or outdoor hydroponic system involves these steps:
+For hydroponic systems, start with a site assessment considering factors like light, temperature, and water access. Set up your irrigation system, construct your hydroponic system, and fill the reservoirs with nutrient solution as per the manufacturer's instructions. Once your system is set up, plant your seeds or seedlings and monitor the system regularly to ensure optimal growing conditions. Test your irrigation system to ensure it functions properly.
 
-| Step                           | Description                                                                                                                                                  |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Site Assessment                | Determine the ideal location for the hydroponic system, considering factors like lighting, temperature, and water access.                                    |
-| Irrigation Preparation         | Set up the irrigation system including water reservoirs, pumps, tubing, and if necessary, a water treatment system.                                          |
-| Hydroponic System Construction | Construct the hydroponic system using appropriate materials to support plant growth, ensuring proper water flow, oxygenation, light, and nutrient provision. |
-| Fill Reservoirs                | Fill the water reservoirs with a nutrient solution following the manufacturer's instructions.                                                                |
-| Planting                       | Plant seeds or seedlings in the hydroponic system, adhering to crop-specific instructions.                                                                   |
-| Monitoring                     | Regularly check that the water level, temperature, and nutrient levels are within the proper range. Make necessary adjustments for optimal plant growth.     |
-| Irrigation Testing             | Confirm the irrigation system functions properly and provides adequate water and nutrient coverage.                                                          |
+## Research-Based Best Practices for Success
 
-# Sustainable Practices for Success
+In addition to these steps, certain research-based practices can improve the success of your urban farming project:
 
-In orchestrating a thriving urban farm program, meticulous planning and execution are imperative. This stage embodies your plans, laying a robust foundation for perpetual growth and prosperity. This involves practicing sustainable cultivation methods, initializing training for involved parties, and guaranteeing clean and adequate water supplies. Let's delve deeper into these areas.
+1. **Crop Rotation:** Regularly changing the type of crops grown in a particular area helps to maintain soil fertility and prevent the build-up of diseases and pests.
+2. **Companion Planting:** Planting certain crops together can help deter pests, improve pollination, and increase crop productivity.
+3. **Integrated Pest Management (IPM):** This is an effective and environmentally sensitive approach to pest management that relies on a combination of common-sense practices. It aims to manage pest damage by the most economical means and with the least possible hazard to people, property, and the environment.
+4. **Organic Farming Practices:** Avoiding synthetic pesticides and fertilizers can improve soil health, conserve biodiversity, and promote a healthier farm environment.
 
-## Sustainable and Organic Cultivation Techniques
+By combining a strategic approach to crop selection with a careful land preparation process, your urban school farming project will be well-positioned for success, contributing to a sustainable food source, hands-on education, and a strengthened community.
 
-Common practices to consider:
+# Sustainable Success
 
-- **Crop Rotation:** Enhances soil vitality and reduces pest and disease accumulation.
-- **Composting:** Bolsters soil health, diminishes waste, utilizing organic materials like vegetable scraps and yard waste.
-- **Cover Cropping:** Assists in soil health augmentation, soil erosion mitigation, and weed control.
-- **Natural Pest Management:** Techniques like companion planting and beneficial insects attraction.
-- **Irrigation Management:** Embraces water-saving methods like drip irrigation and mulching.
-- **Minimizing Chemical Use:** Encourages minimized synthetic fertilizers and pesticides use, leaning towards organic methods.
-- **Soil Testing:** Regular evaluations to monitor soil fertility ensuring it's healthy and supportive of plant growth.
-- **Crop Selection:** Adapting to local growing conditions to decrease inputs and increase yields.
+## Key Elements
 
-## Comprehensive Training for Students and Staff
+1. **Land and Water Management:** Evaluate land availability, sustainability of water sources, local climate, soil quality, and environmental impacts. 
+2. **Community and Market Involvement:** Gauge community support and market demand for a sustainable operation.
+3. **Financial Strategies:** Explore diverse funding strategies from grants and crowdfunding to partnerships, donations, and sales.
 
-Training modules to include:
+## Sustainable Practices
 
-1. **Plant biology and physiology basics**
-2. **Soil science and hydroponics**
-3. **Urban farming methodologies**
-4. **Irrigation setup and upkeep**
-5. **Farm maintenance**
-6. **Harvesting and post-harvest handling**
+1. **Cultivation Techniques:** Adopt practices such as crop rotation, composting, cover cropping, natural pest management, irrigation management, and minimal chemical use for sustainable cultivation. Regular soil testing and careful crop selection can further enhance yield.
+2. **Comprehensive Training:** Facilitate learning in plant biology, soil science, urban farming methodologies, irrigation setup, farm maintenance, and harvesting techniques. 
 
-## Securing Safe and Sufficient Water
+## Water Management
 
-Clean water is fundamental for plant growth. Filtration for municipal water sources or rainwater usage should be considered. Here's how to manage both water sources.
+1. **Municipal Water Sources Filtration:** Construct a multi-stage filtration system to ensure safe water for irrigation.
+2. **Rainwater Collection:** Employ a rainwater collection system with routine quality checks, optimal container positioning, screening, and coverage.
 
-### Municipal Water Sources Filtration
+## Plant Growth Guidance
 
-1. **Filtration system selection**: Opt for a multi-stage filtration system.
-2. **Materials accumulation**: Storage tank, pump, filters, tubing, activated carbon, etc.
-3. **System construction**: Sequentially connect sediment filter and activated carbon filter.
-4. **Filters installation**: Connect to pump and tubing, then tubing to storage tank.
-5. **Water testing**: Assess chemical and mineral content.
-6. **Filtered water usage**: Post water quality verification, use for irrigation.
+1. **Raised Bed Optimization:** Maintain optimal conditions for different crops including pH, sunlight, temperature, watering, and fertilizing specifics, with a note to companion planting.
+2. **Harnessing Hydroponics:** Maintain the right solution pH, light intensity, temperature, and humidity for hydroponically grown crops. 
 
-### Rainwater Collection
+## Progress Monitoring and Management
 
-1. **Rainwater quality verification**: Regular checks.
-2. **Rain barrel or storage container positioning**: Place it under a gutter downspout.
-3. **Container screening**: Prevent debris and pests infiltration.
-4. **Container coverage**: To maintain water quality.
-5. **Spigot or hose bib installation**: Ensures easy water access.
+1. **Key Monitoring Elements:** Regularly track plant health, nutrient levels, environmental conditions, and signs of pests and diseases.
+2. **Pest Management:** Prevent and control pests with enhanced sanitation, natural controls, and eco-friendly pesticides.
+3. **Plant Disorders Management:** Proactively manage plant disorders related to nutrient deficiency, light stress, watering issues, pest infestations, and disease outbreaks. 
 
-## Optimal Plant Growth Guide
+## Quality Harvesting & Food Safety
 
-Two systems to consider - raised beds and hydroponics.
+1. **Harvesting Techniques:** Implement shaded produce staging, spray area for washing, cleaning & hydrocooling dunk tanks, drying area, and clean packing counter for efficient harvesting. 
+2. **Cold Storage:** Maintain optimal cold storage conditions to preserve produce quality and longevity.
 
-### Optimizing Raised Beds
-
-| Crop         | Soil pH | Sunlight            | Temperature | Watering              | Fertilizing               | Companion Plants       |
-| ------------ | ------- | ------------------- | ----------- | --------------------- | ------------------------- | ---------------------- |
-| Leafy Greens | 6.0-7.0 | Full Sun-Part Shade | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Root crops, Brassica   |
-| Herbs        | 6.0-7.0 | Full Sun-Part Shade | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | All except Nightshades |
-| Root Crops   | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Leafy Greens, Brassica |
-| Tomatoes     | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Herbs, Marigolds       |
-| Peppers      | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Herbs, Eggplants       |
-| Squash       | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Corn, Beans            |
-| Beans        | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Corn, Squash           |
-| Cucumbers    | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | All except Nightshades |
-| Strawberries | 6.0-7.0 | Full Sun-Part Shade | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Leafy Greens, Brassica |
-| Melons       | 6.0-7.0 | Full Sun            | 60-70°F     | Consistent Moist Soil | Compost/Liquid Fertilizer | Corn, Squash           |
-
-**Note:** These are generic guides. Conditions may alter depending on climate and microclimate.
-
-### Harnessing Hydroponics
-
-| Crop         | Solution pH | Light Intensity | Temperature | Humidity | Other Considerations                   |
-| ------------ | ----------- | --------------- | ----------- | -------- | -------------------------------------- |
-| Leafy Greens | 5.5-6.5     | High            | 60-75°F     | 50-70%   | Harvest at desired size                |
-| Herbs        | 6.0-7.0     | High            | 60-75°F     | 50-70%   | Harvest leaves at desired size         |
-| Microgreens  | 5.5-6.5     | High            | 70-75°F     | -        | Harvest when cotyledons have developed |
-| Tomatoes     | 5.5-6.5     | High            | 65-75°F     | -        | Manual pollination required for fruiting |
-| Peppers      | 5.5-6.5     | High            | 65-75°F     | -        | Manual pollination required for fruiting |
-| Cucumbers    | 5.5-6.5     | High            | 65-75°F     | -        | Manual pollination required for fruiting |
-
-**Note:** Hydroponic growing conditions can vary. Conduct specific plant research for optimal results.
-
-# Progress Monitoring
-
-To ensure the success of your urban farm, proactive monitoring and management of your crops and environment is essential. Key elements to keep an eye on include:
-
-## Key Monitoring Elements
-
-- **Plant Health:** Regularly assess the overall appearance and growth of your plants, looking for signs of stress such as yellowing leaves or stunted growth.
-- **Nutrient Levels:** Keep tabs on the pH and nutrient levels in your hydroponic solution or soil to maintain the ideal balance for your plants.
-- **Environmental Conditions:** Track temperature, humidity, and light levels, ensuring they remain within the optimal range for each crop.
-- **Pest & Disease Surveillance:** Regular inspections for signs of pests (chewed leaves, webbing) and diseases (powdery mildew, root rot) allow early detection and prevention of further spread.
-
-## Pest Management
-
-Effective pest control includes:
-
-- **Prevention:** Enhance sanitation practices and apply crop rotation to minimize pest risk.
-- **Natural Controls:** Opt for natural methods such as beneficial insects or diatomaceous earth.
-- **Pesticides:** As a last resort, use eco-friendly pesticides, ensuring compliance with local and federal regulations. Consult with local extension services or agricultural experts for recommendations specific to your region.
-
-## Addressing Plant Disorders
-
-Common plant disorders and their management include:
-
-- **Nutrient Deficiency:** Adjust the pH and nutrient levels in your hydroponic solution or soil as needed.
-- **Light Stress:** Supply adequate light or modify light intensity to avoid stress.
-- **Watering Issues:** Monitor soil moisture levels frequently and modify watering as required.
-- **Pest Infestations:** Implement the strategies listed under "Pest Management" for pest control.
-- **Disease Outbreaks:** Swiftly implement preventative measures and treat diseased plants to prevent disease spread.
-
-## Quality Harvesting & Food Safety Techniques
-
-Ensuring a high-quality, efficient, and safe harvest involves:
-
-1. **Shaded Produce Staging:** Shield delicate produce from heat by staging it in a shaded area pre-wash to minimize spoilage.
-2. **Spray Area:** Equip your space with hoses or other washing equipment for thorough produce cleaning prior to packing.
-3. **Cleaning & Hydrocooling Dunk Tanks:** Quick clean and cool produce using dunk tanks. This preserves produce quality and freshness, reducing spoilage risk.
-4. **Drying Area:** Designate an area for removing excess water post-wash to prevent harmful microorganisms' growth. Wire top tables and a salad spinner are useful.
-5. **Packing Counter/Table:** Maintain a clean and sanitized table or counter for packing produce into distribution containers.
-6. **Cold Storage:** Maintain appropriate temperature and humidity in your cold storage to extend produce shelf life.
+This guide offers a succinct and enriched path to launching and maintaining a successful urban farm. Remember, research, and adaptability are key to navigating the unique challenges of urban farming.
 
 # Urban Farm Program Evaluation
 
@@ -318,40 +150,3 @@ A comprehensive evaluation of your urban farming initiative is pivotal to gauge 
 
 Regular, thorough evaluations will allow you to assess your urban farm program's overall success, make informed decisions about its future, and optimize its impact within your community.
 
-
-# 6-week Urban Farm Plan
-
-## Creating a Streamlined Urban Farm Plan
-
-The urban farm plan strategically integrates needs assessment outcomes into a compact structure emphasizing goals, objectives, timeline, roles, responsibilities, and evaluation metrics.
-
-## Goals and Objectives
-
-* **Goal:** Activate an enduring urban farm initiative to augment education and foster community bonds.
-* **Objectives:** 
-  * Enrich student learning with practical exposure to agriculture, science, and sustainability.
-  * Deliver top-notch, fresh produce for local consumption.
-  * Stimulate community participation in urban farming, promoting a healthy lifestyle.
-  * Advocate for eco-friendly agricultural practices to limit environmental repercussions.
-  * Generate steady revenue to ensure program continuity and growth.
-
-## Implementation Timeline
-
-| Timeframe    | Tasks                                                                           |
-| ------------ | ------------------------------------------------------------------------------- |
-| Week 1 | Conduct needs assessment, secure preliminary resources and funding. Draft urban farm layout, decide on crop/hydroponic selections. Initiate food safety and farming training. |
-| Week 2 | Complete hydroponic system installations and farm setup. Progress with food safety and farming training. |
-| Week 3 | Officially commence the urban farming initiative with first crop planting. Conclude food safety and farming training. |
-| Week 4-6 | Kick off regular monitoring and maintenance with a focus on crop growth and pest management. Launch food preparation training as an ongoing process. |
-
-## Roles and Responsibilities
-
-* **Project Manager:** Steer the program from needs assessment to resource allocation and plan execution.
-* **School Officials:** Provide support in securing resources and funding.
-* **Teachers:** Partner with the project manager to weave the farm program into curriculum, creating experiential learning opportunities.
-* **Students:** Participate in hands-on learning, assist in farm operations and crop harvest. Attend food safety, farming and food prep training sessions.
-* **Community Members:** Engage in farming activities, volunteer, support through produce purchases, and join educational events.
-
-## Evaluation and Monitoring
-
-Ensure regular monitoring to maintain alignment with objectives, utilizing evaluation metrics such as crop productivity, sales, student engagement, learning outcomes, community participation, and fiscal sustainability. Continuous feedback from all stakeholders is crucial for the program's iterative refinement and ultimate success.
