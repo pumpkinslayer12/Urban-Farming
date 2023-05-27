@@ -56,24 +56,20 @@ An urban farming initiative's long-term success relies heavily on active engagem
 3. **Collaborative Projects:** Partnering with local businesses, non-profit organizations, or community groups can increase visibility and create a sense of shared responsibility.
 4. **Farm-to-Table Programs:** Partnerships with local food businesses can strengthen the local food network and position your urban farm as a community asset.
 5. **Educational Events:** Workshops, field trips, and demonstrations can promote sustainable farming practices and engage various community members.
-6. **Community Gardens:** Establish
-
-ing community gardens can provide additional gardening opportunities and reinforce a sense of shared responsibility for sustainable food production.
+6. **Community Gardens:** Establishing community gardens can provide additional gardening opportunities and reinforce a sense of shared responsibility for sustainable food production.
 
 By applying this comprehensive framework, you can create a successful urban farming initiative that enriches the school environment, enhances community engagement, promotes sustainable practices, and serves as a valuable educational resource.
 
 # Crop Selection and Land Preparation
 
-Whether you plan to engage in traditional outdoor farming using raised beds or take the route of hydroponic farming, two crucial steps to consider in urban school farming are crop selection and land preparation. This comprehensive guide provides a roadmap to help you determine what crops to grow and how to prepare your land to get the best yield possible.
-
+Whether you plan to engage in traditional outdoor farming using raised beds or take the route of hydroponic farming, two crucial steps to consider in urban school farming are crop selection and land preparation. This  guide provides a roadmap to help you determine what crops to grow and how to prepare your land to get the best yield possible.
 ## Crop Selection: Maximizing Yield and Suitability
 
 The crops you select will directly impact the success of your urban farming project. They should align with growing conditions, local climate, soil quality, and market demand. Research the local market to understand the demand for different crops and evaluate local growing conditions to ensure you select the most suitable crops.
 
-For traditional farming in Indiana, consider leafy greens like lettuce, spinach, and kale, herbs such as basil, parsley, and cilantro, root crops like carrots, beets, and radishes, and popular crops such as tomatoes, peppers, cucumbers, and strawberries. For hydroponic farming, stick to the leafy greens, herbs, and popular crops, but also consider growing microgreens like wheatgrass, pea shoots, and sunflower sprouts.
+For traditional farming in Indiana, consider leafy greens like lettuce, spinach, and kale, herbs such as basil, parsley, and cilantro, root crops like carrots, beets, and radishes, and popular crops such as tomatoes, peppers, cucumbers, and strawberries. For hydroponic farming, stick to the leafy greens, herbs, and popular crops, but also consider growing microgreens like buckwheat, pea shoots, and salad mixes.
 
 ## Land Preparation: Setting the Stage for Growth
-
 Land preparation, whether for outdoor raised beds or indoor/outdoor hydroponic systems, is critical in establishing a thriving urban farm. It includes selecting the right site, evaluating and preparing the soil or system, and ensuring adequate light, drainage, and nutrient availability.
 
 ### Outdoor Raised Bed Preparation
@@ -133,7 +129,7 @@ This guide offers a succinct and enriched path to launching and maintaining a su
 
 # Urban Farm Program Evaluation
 
-A comprehensive evaluation of your urban farming initiative is pivotal to gauge its effectiveness and discover improvement areas. Here are the key steps for a thorough assessment:
+An evaluation of your urban farming initiative is pivotal to gauge its effectiveness and discover improvement areas. Here are the key steps for a thorough assessment:
 
 ## Evaluation Steps
 
