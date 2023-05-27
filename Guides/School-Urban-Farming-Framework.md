@@ -1,14 +1,9 @@
 # School Urban Farming Framework
 
 # Overview
+The School Urban Farming Framework is a holistic guide for instituting sustainable urban farms within school settings. This resource encapsulates the process, from preliminary needs assessment through to ongoing improvement, covering key aspects such as funding strategies, crop selection, land preparation, and farm implementation.
 
-The School Urban Farming Framework is a comprehensive guide for establishing sustainable urban farms in schools. Starting with a needs assessment, it outlines the necessary resources and potential challenges for both outdoor and indoor farming setups.
-
-The guide details funding strategies, crop selection, land preparation, and implementation, emphasizing organic practices. It also covers training, water management, and harvest techniques for food safety and high-quality produce.
-
-Furthermore, the framework provides guidance on monitoring and managing pests, with specific strategies for various crops. Finally, it offers tools for evaluating program success and areas for improvement, ensuring ongoing farm development and success.
-
-Overall, this framework equips schools with essential information and resources to start and manage an urban farm effectively.
+In addition to encouraging organic farming practices, the framework guides training modules, water management techniques, and harvest methods to ensure food safety and high-quality produce. Moreover, it introduces strategies for pest monitoring and management specific to various crops, as well as tools for evaluating program success. Ultimately, this framework is designed to provide schools with the foundational knowledge to successfully establish and maintain urban farms.
 
 # Needs Assessment, Resources, Funding, and Community Engagement 
 
