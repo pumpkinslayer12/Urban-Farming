@@ -8,7 +8,7 @@ In addition to encouraging organic farming practices, the framework guides train
 # Needs Assessment, Resources, Funding, and Community Engagement 
 
 
-Urban farming in schools can offer a multitude of benefits, ranging from hands-on educational opportunities to promoting sustainability and enhancing community engagement. This guide provides a comprehensive framework for successfully establishing and managing an urban school farm, discussing critical components such as needs assessment, resource procurement, funding strategies, and community engagement.
+Urban farming in schools can offer a multitude of benefits, ranging from hands-on educational opportunities to promoting sustainability and enhancing community engagement. This section provides a comprehensive framework for successfully establishing and managing an urban school farm, discussing critical components such as needs assessment, resource procurement, funding strategies, and community engagement.
 
 ## Evaluating Needs and Engaging Stakeholders for Urban School Farming
 
@@ -63,6 +63,7 @@ By applying this comprehensive framework, you can create a successful urban farm
 # Crop Selection and Land Preparation
 
 Whether you plan to engage in traditional outdoor farming using raised beds or take the route of hydroponic farming, two crucial steps to consider in urban school farming are crop selection and land preparation. This  guide provides a roadmap to help you determine what crops to grow and how to prepare your land to get the best yield possible.
+
 ## Crop Selection: Maximizing Yield and Suitability
 
 The crops you select will directly impact the success of your urban farming project. They should align with growing conditions, local climate, soil quality, and market demand. Research the local market to understand the demand for different crops and evaluate local growing conditions to ensure you select the most suitable crops.
@@ -124,8 +125,6 @@ By combining a strategic approach to crop selection with a careful land preparat
 
 1. **Harvesting Techniques:** Implement shaded produce staging, spray area for washing, cleaning & hydrocooling dunk tanks, drying area, and clean packing counter for efficient harvesting. 
 2. **Cold Storage:** Maintain optimal cold storage conditions to preserve produce quality and longevity.
-
-This guide offers a succinct and enriched path to launching and maintaining a successful urban farm. Remember, research, and adaptability are key to navigating the unique challenges of urban farming.
 
 # Urban Farm Program Evaluation
 
